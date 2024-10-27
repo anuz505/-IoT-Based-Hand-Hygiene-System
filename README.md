@@ -23,7 +23,7 @@ The IoT-Based Hand Hygiene System addresses the need for efficient, automated hy
 - **LED Indicator**: Provides a visual alert when sanitizer is running low.
 - **ThingSpeak API**: Cloud platform for remote monitoring and data analytics.
 
-#Technical Diagram
+## Technical Diagram
 ![Tinkercad Circuit Diagram](https://github.com/anuz505/-IoT-Based-Hand-Hygiene-System/blob/main/IOT%20Assignment%203.png)
 
 ## How to Use
