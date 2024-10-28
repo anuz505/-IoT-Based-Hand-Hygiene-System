@@ -24,7 +24,7 @@ The IoT-Based Hand Hygiene System addresses the need for efficient, automated hy
 - **ThingSpeak API**: Cloud platform for remote monitoring and data analytics.
 
 ## Technical Diagram
-![Tinkercad Circuit Diagram](https://github.com/anuz505/-IoT-Based-Hand-Hygiene-System/blob/main/IOT%20Assignment%203.png)
+![Tinkercad Circuit Diagram](https://github.com/anuz505/-IoT-Based-Hand-Hygiene-System/blob/main/IOTAssignmentMain.png)
 
 ## How to Use
 
