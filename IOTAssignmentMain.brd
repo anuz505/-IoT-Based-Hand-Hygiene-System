@@ -67,10 +67,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="196.4208074543199" y2="0" width="0" layer="20"/>
-<wire x1="196.4208074543199" y1="0" x2="196.4208074543199" y2="163.82330842146052" width="0" layer="20"/>
-<wire x1="196.4208074543199" y1="163.82330842146052" x2="0" y2="163.82330842146052" width="0" layer="20"/>
-<wire x1="0" y1="163.82330842146052" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="0" y1="0" x2="215.71588068697233" y2="0" width="0" layer="20"/>
+<wire x1="215.71588068697233" y1="0" x2="215.71588068697233" y2="165.24682651706956" width="0" layer="20"/>
+<wire x1="215.71588068697233" y1="165.24682651706956" x2="0" y2="165.24682651706956" width="0" layer="20"/>
+<wire x1="0" y1="165.24682651706956" x2="0" y2="0" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="Tinkercad">
@@ -92,6 +92,7 @@ No holes, no ICSP connections.
 &lt;p&gt;Radial LED (Round) package with 2.54 mm pitch (lead spacing), 0.60 mm lead width, 0.50 mm lead thickness, 5.65 mm body diameter and 8.60 mm body height&lt;/p&gt;</description><wire x1="2.5425" y1="1.2314" x2="-2.825" y2="0" width="0.12" layer="21" curve="154.1581"/><wire x1="2.5425" y1="-1.2314" x2="-2.825" y2="0" width="0.12" layer="21" curve="-154.1581"/><wire x1="2.5425" y1="1.2314" x2="2.5425" y2="-1.2314" width="0.12" layer="21"/><wire x1="-2.5946" y1="2.5946" x2="-1.8446" y2="2.5946" width="0.12" layer="21"/><wire x1="-2.2196" y1="2.9696" x2="-2.2196" y2="2.2196" width="0.12" layer="21"/><pad name="1" x="-1.27" y="0" drill="0.981" diameter="1.581"/><pad name="2" x="1.27" y="0" drill="0.981" diameter="1.581"/><circle x="0" y="0" radius="2.825" width="0.12" layer="51"/><text x="0" y="3.6046" size="1.27" layer="25" align="bottom-center">&gt;NAME</text><text x="0" y="-3.4642" size="1.27" layer="27" align="top-center">&gt;VALUE</text></package>
 <package name="RESAD1016W63L850D250B" urn="urn:adsk.eagle:footprint:31513019/2"><description>Axial Resistor, 10.16 mm pitch, 8.50 mm body length, 2.50 mm body diameter
  &lt;p&gt;Axial Resistor package with 10.16 mm pitch (lead spacing), 0.63 mm lead diameter, 8.50 mm body length and 2.50 mm body diameter&lt;/p&gt;</description><pad name="1" x="-5.08" y="0" drill="0.83" diameter="1.43"/><pad name="2" x="5.08" y="0" drill="0.83" diameter="1.43"/><wire x1="-4.25" y1="-1.25" x2="-4.25" y2="1.25" width="0.12" layer="21"/><wire x1="-4.25" y1="1.25" x2="4.25" y2="1.25" width="0.12" layer="21"/><wire x1="4.25" y1="1.25" x2="4.25" y2="-1.25" width="0.12" layer="21"/><wire x1="4.25" y1="-1.25" x2="-4.25" y2="-1.25" width="0.12" layer="21"/><wire x1="-4.25" y1="0" x2="-4.111" y2="0" width="0.12" layer="21"/><wire x1="4.25" y1="0" x2="4.111" y2="0" width="0.12" layer="21"/><wire x1="-4.25" y1="-1.25" x2="-4.25" y2="1.25" width="0.12" layer="51"/><wire x1="-4.25" y1="1.25" x2="4.25" y2="1.25" width="0.12" layer="51"/><wire x1="4.25" y1="1.25" x2="4.25" y2="-1.25" width="0.12" layer="51"/><wire x1="4.25" y1="-1.25" x2="-4.25" y2="-1.25" width="0.12" layer="51"/><text x="0" y="1.885" size="1.27" layer="25" align="bottom-center">&gt;NAME</text><text x="0" y="-1.885" size="1.27" layer="27" align="top-center">&gt;VALUE</text></package>
+<package name="BAT_3002" urn="urn:adsk.eagle:footprint:27510228/3"><smd name="P1" x="-12.825" y="0.65" dx="5.08" dy="5.08" layer="1"/><smd name="N" x="0" y="0.65" dx="3.96" dy="3.96" layer="1"/><smd name="P" x="12.825" y="0.65" dx="5.08" dy="5.08" layer="1"/><circle x="0" y="0.65" radius="10" width="0.12" layer="21"/><circle x="0" y="0.65" radius="10" width="0.12" layer="51"/><wire x1="-15.555" y1="10.055" x2="15.555" y2="10.055" width="0.12" layer="51"/><wire x1="15.555" y1="10.055" x2="15.555" y2="-10.055" width="0.12" layer="51"/><wire x1="15.555" y1="-10.055" x2="-15.555" y2="-10.055" width="0.12" layer="51"/><wire x1="-15.555" y1="-10.055" x2="-15.555" y2="10.055" width="0.12" layer="51"/><wire x1="16.002" y1="0.508" x2="17.018" y2="0.508" width="0.12" layer="21"/><wire x1="7.62" y1="10.055" x2="15.555" y2="10.055" width="0.12" layer="21"/><wire x1="15.555" y1="-2.54" x2="15.555" y2="-10.055" width="0.12" layer="21"/><wire x1="15.555" y1="-10.055" x2="-15.555" y2="-10.055" width="0.12" layer="21"/><wire x1="-15.555" y1="-10.055" x2="-15.555" y2="-2.54" width="0.12" layer="21"/><wire x1="15.555" y1="10.055" x2="15.555" y2="3.81" width="0.12" layer="21"/><wire x1="-15.555" y1="10.055" x2="-7.305" y2="10.055" width="0.12" layer="21"/><wire x1="-15.555" y1="3.81" x2="-15.555" y2="10.055" width="0.12" layer="21"/><wire x1="16.51" y1="1.016" x2="16.51" y2="0" width="0.12" layer="21"/><wire x1="-17.018" y1="0.762" x2="-16.002" y2="0.762" width="0.12" layer="21"/><wire x1="-16.51" y1="1.27" x2="-16.51" y2="0.254" width="0.12" layer="21"/><text x="0" y="11.95" size="1.27" layer="25" align="center">&gt;NAME</text><text x="0" y="-11.62" size="1.27" layer="27" align="center">&gt;VALUE</text></package>
 </packages>
 <packages3d>
 <package3d name="1X08" urn="urn:adsk.eagle:package:22409/2" type="model"><description>PIN HEADER</description><packageinstances><packageinstance name="1X08"/></packageinstances></package3d>
@@ -111,6 +112,7 @@ No holes, no ICSP connections.
 &lt;p&gt;Radial LED (Round) package with 2.54 mm pitch (lead spacing), 0.60 mm lead width, 0.50 mm lead thickness, 5.65 mm body diameter and 8.60 mm body height&lt;/p&gt;</description><packageinstances><packageinstance name="LEDRD254W60D565H860B"/></packageinstances></package3d>
 <package3d name="RESAD1016W63L850D250B" urn="urn:adsk.eagle:package:31513020/2" type="model"><description>Axial Resistor, 10.16 mm pitch, 8.50 mm body length, 2.50 mm body diameter
  &lt;p&gt;Axial Resistor package with 10.16 mm pitch (lead spacing), 0.63 mm lead diameter, 8.50 mm body length and 2.50 mm body diameter&lt;/p&gt;</description><packageinstances><packageinstance name="RESAD1016W63L850D250B"/></packageinstances></package3d>
+<package3d name="BAT_3002" urn="urn:adsk.eagle:package:27510254/3" type="model"><packageinstances><packageinstance name="BAT_3002"/></packageinstances></package3d>
 </packages3d>
 </library></libraries>
 <attributes/>
@@ -303,10 +305,9 @@ design rules under a new name.
 </autorouter>
 <elements>
 <element name="SERVO1" library="Tinkercad" package="SM-S2309S" package3d_urn="urn:adsk.eagle:package:32659984/2" value="SERVOSM-S2309S" x="92.7307" y="92.507" smashed="yes"/>
-<element name="DIST1" library="Tinkercad" package="HC-SR04" package3d_urn="urn:adsk.eagle:package:32384643/2" value="DISTANCE-SENSOR-4PINHC-SR04" x="94.6732" y="121.9416" smashed="yes"/>
-<element name="U2" library="Tinkercad" package="1X08" package3d_urn="urn:adsk.eagle:package:22409/2" value="PINHD-1X08_1X08M" x="143.7887" y="157.5495" smashed="yes"/>
-<element name="U1" library="Tinkercad" package="ARDUINO-UNO-R3-SHIELD" package3d_urn="urn:adsk.eagle:package:32092383/4" value="ARDUINO-UNO-R3-SHIELD" x="29.845" y="95.4678" rot="R180" smashed="yes"/>
 <element name="DIST2" library="Tinkercad" package="HC-SR04" package3d_urn="urn:adsk.eagle:package:32384643/2" value="DISTANCE-SENSOR-4PINHC-SR04" x="170.3858" y="22.225" smashed="yes"/>
+<element name="DIST1" library="Tinkercad" package="HC-SR04" package3d_urn="urn:adsk.eagle:package:32384643/2" value="DISTANCE-SENSOR-4PINHC-SR04" x="94.6732" y="121.9416" smashed="yes"/>
+<element name="U1" library="Tinkercad" package="ARDUINO-UNO-R3-SHIELD" package3d_urn="urn:adsk.eagle:package:32092383/4" value="ARDUINO-UNO-R3-SHIELD" x="29.845" y="95.4678" rot="R180" smashed="yes"/>
 <element name="R1" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="149.7382" y="98.4578" rot="R90" smashed="yes"/>
 <element name="D1" library="Tinkercad" package="LEDRD254W60D565H860B" package3d_urn="urn:adsk.eagle:package:16378508/2" value="RED" x="148.4682" y="106.0778" rot="R180" smashed="yes">
 <attribute name="CATEGORY" value="Opto-Electronic" x="148.4682" y="106.0778" size="1.778" layer="27" display="off"/>
@@ -323,6 +324,20 @@ design rules under a new name.
 <attribute name="TYPE" value="" x="148.4682" y="106.0778" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" value="LED_RED" x="148.4682" y="106.0778" size="1.778" layer="27" display="off"/>
 </element>
+<element name="U2" library="Tinkercad" package="1X08" package3d_urn="urn:adsk.eagle:package:22409/2" value="PINHD-1X08_1X08M" x="143.7887" y="157.5495" smashed="yes"/>
+<element name="BAT1" library="Tinkercad" package="BAT_3002" package3d_urn="urn:adsk.eagle:package:27510254/3" value="BR2016" x="195.5229" y="149.4868" rot="R360" smashed="yes">
+<attribute name="CATEGORY" value="Battery-Holder" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="CELL_DIAMETER" value="20mm" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value="Battery Retainer Coin, 20.0mm 1 Cell SMD (SMT) Tab" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="3002" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="PART_STATUS" value="ACTIVE" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="ROHS_COMPLIANT" value="COMPLIANT" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="SERIES" value="-" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="SUB_CATEGORY" value="Holder" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="Coin Cell" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" value="BR2016" x="195.5229" y="149.4868" size="1.778" layer="27" display="off"/>
+</element>
 </elements>
 <signals>
 <signal name="U1_GND">
@@ -333,13 +348,11 @@ design rules under a new name.
 <contactref element="DIST1" pad="4"/>
 <contactref element="SERVO1" pad="3"/>
 <contactref element="DIST2" pad="4"/>
-<contactref element="U2" pad="2"/>
 <wire x1="5.715" y1="92.9278" x2="5.715" y2="90.3878" width="0" layer="19" extent="1-1"/>
 <wire x1="5.715" y1="92.9278" x2="53.975" y2="106.8978" width="0" layer="19" extent="1-1"/>
 <wire x1="53.975" y1="106.8978" x2="95.2707" y2="92.507" width="0" layer="19" extent="1-1"/>
 <wire x1="98.4832" y1="121.9416" x2="95.2707" y2="92.507" width="0" layer="19" extent="1-1"/>
 <wire x1="147.1982" y1="106.0778" x2="98.4832" y2="121.9416" width="0" layer="19" extent="1-1"/>
-<wire x1="147.1982" y1="106.0778" x2="137.4387" y2="157.5495" width="0" layer="19" extent="1-1"/>
 <wire x1="147.1982" y1="106.0778" x2="174.1958" y2="22.225" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D2">
@@ -352,36 +365,9 @@ design rules under a new name.
 <contactref element="DIST1" pad="1"/>
 <contactref element="SERVO1" pad="1"/>
 <contactref element="DIST2" pad="1"/>
-<contactref element="U2" pad="1"/>
 <wire x1="90.8632" y1="121.9416" x2="90.1907" y2="92.507" width="0" layer="19" extent="1-1"/>
-<wire x1="90.8632" y1="121.9416" x2="134.8987" y2="157.5495" width="0" layer="19" extent="1-1"/>
 <wire x1="5.715" y1="95.4678" x2="90.1907" y2="92.507" width="0" layer="19" extent="1-1"/>
 <wire x1="90.1907" y1="92.507" x2="166.5758" y2="22.225" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="U1_D4">
-<contactref element="DIST1" pad="3"/>
-<contactref element="U1" pad="D4"/>
-<wire x1="95.9432" y1="121.9416" x2="53.975" y2="80.2278" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="U1_D5">
-<contactref element="DIST1" pad="2"/>
-<contactref element="U1" pad="D5"/>
-<wire x1="93.4032" y1="121.9416" x2="53.975" y2="82.7678" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="U2_8">
-<contactref element="U2" pad="8"/>
-<contactref element="U1" pad="TX"/>
-<wire x1="152.6787" y1="157.5495" x2="53.975" y2="72.6078" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="U2_3">
-<contactref element="U2" pad="3"/>
-<contactref element="U1" pad="RX"/>
-<wire x1="139.9787" y1="157.5495" x2="53.975" y2="70.0678" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="U1_D8">
-<contactref element="R1" pad="1"/>
-<contactref element="U1" pad="D8"/>
-<wire x1="149.7382" y1="93.3778" x2="53.975" y2="91.6578" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D7">
 <contactref element="DIST2" pad="3"/>
@@ -393,10 +379,47 @@ design rules under a new name.
 <contactref element="U1" pad="D6"/>
 <wire x1="169.1158" y1="22.225" x2="53.975" y2="85.3078" width="0" layer="19" extent="1-1"/>
 </signal>
+<signal name="U1_D4">
+<contactref element="DIST1" pad="3"/>
+<contactref element="U1" pad="D4"/>
+<wire x1="95.9432" y1="121.9416" x2="53.975" y2="80.2278" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="U1_D5">
+<contactref element="DIST1" pad="2"/>
+<contactref element="U1" pad="D5"/>
+<wire x1="93.4032" y1="121.9416" x2="53.975" y2="82.7678" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="U1_D8">
+<contactref element="R1" pad="1"/>
+<contactref element="U1" pad="D8"/>
+<wire x1="149.7382" y1="93.3778" x2="53.975" y2="91.6578" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="U2_8">
+<contactref element="U2" pad="8"/>
+<contactref element="U1" pad="TX"/>
+<wire x1="152.6787" y1="157.5495" x2="53.975" y2="72.6078" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="U2_3">
+<contactref element="U2" pad="3"/>
+<contactref element="U1" pad="RX"/>
+<wire x1="139.9787" y1="157.5495" x2="53.975" y2="70.0678" width="0" layer="19" extent="1-1"/>
+</signal>
 <signal name="D1_A">
 <contactref element="D1" pad="1"/>
 <contactref element="R1" pad="2"/>
 <wire x1="149.7382" y1="106.0778" x2="149.7382" y2="103.5378" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="BAT1-">
+<contactref element="BAT1" pad="N"/>
+<contactref element="U2" pad="2"/>
+<wire x1="195.5229" y1="150.1368" x2="137.4387" y2="157.5495" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="BAT1+">
+<contactref element="BAT1" pad="P1"/>
+<contactref element="BAT1" pad="P"/>
+<contactref element="U2" pad="1"/>
+<wire x1="182.6979" y1="150.1368" x2="208.3479" y2="150.1368" width="0" layer="19" extent="1-1"/>
+<wire x1="182.6979" y1="150.1368" x2="134.8987" y2="157.5495" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
